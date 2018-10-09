@@ -1,0 +1,11 @@
+/Users/maxketter/Projects/CustomList/CustomList/bin/Debug/netcoreapp2.1/CustomList.deps.json
+/Users/maxketter/Projects/CustomList/CustomList/bin/Debug/netcoreapp2.1/CustomList.runtimeconfig.json
+/Users/maxketter/Projects/CustomList/CustomList/bin/Debug/netcoreapp2.1/CustomList.runtimeconfig.dev.json
+/Users/maxketter/Projects/CustomList/CustomList/bin/Debug/netcoreapp2.1/CustomList.dll
+/Users/maxketter/Projects/CustomList/CustomList/bin/Debug/netcoreapp2.1/CustomList.pdb
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.csprojAssemblyReference.cache
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.csproj.CoreCompileInputs.cache
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.AssemblyInfoInputs.cache
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.AssemblyInfo.cs
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.dll
+/Users/maxketter/Projects/CustomList/CustomList/obj/Debug/netcoreapp2.1/CustomList.pdb
